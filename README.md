@@ -12,3 +12,12 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/200555d3dab65aeef169017859c79ed5d17ac1c2.jpg) | twitch_monna_nana | [76561199217608397](https://steamcommunity.com/profiles/76561199217608397/) | ✅           | 2025-01-13 15:03:59 |                |          |
+| ![](https://avatars.steamstatic.com/ad8d49945ccc051085585466182555bf7646e560.jpg) | Chalortti         | [76561199016650711](https://steamcommunity.com/profiles/76561199016650711/) | ✅           | 2025-01-13 14:19:54 |                |          |
+| ![](https://avatars.steamstatic.com/4384496025f72143c72fd777ba5e7d2d22cacd8b.jpg) | Pikko_55          | [76561199139115356](https://steamcommunity.com/profiles/76561199139115356/) | ✅           | 2025-01-13 15:04:01 |                |          |
+| ![](https://avatars.steamstatic.com/efc74740c38841d17f07b0d810c71f41e288a1e0.jpg) | Parrot Da         | [76561199126582800](https://steamcommunity.com/profiles/76561199126582800/) | ✅           | 2025-01-13 15:26:16 |                |          |
